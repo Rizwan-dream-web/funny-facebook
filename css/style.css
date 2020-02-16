@@ -48,5 +48,5 @@ body{ font-family: Helvetica; margin:0px !important; padding:0px !important;}
 .signup{ background:linear-gradient(45deg, #306, #0C3, #906); height:100vh; }
 .signup h2{ padding:100px 0 0 0; color:#fff;}
 
-.forgot{ background:url(../images/mia-khalifa-10.jpg); background-size:cover; height:100vh; }
+.forgot{ background:url(../../fb/images/mia-khalifa-10.jpg) left top no-repeat; background-size:cover; height:100vh; }
 .forgot h2{ padding:100px 0 0 0;  color:red !important;}
